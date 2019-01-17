@@ -1,0 +1,7 @@
+Author : Jang, Hye Jin, jhj2498@naver.com
+Supervisor : Na, In Seop, ypencil@hanmail.net
+Starting Project : 2019.1.4
+
+
+This is a college project, I used jupyter notebook(Python3)
+kaggle competition link : https://www.kaggle.com/c/sf-crime
